@@ -57,3 +57,10 @@ describe('Домашнее задание к лекции 5 «Классы». Д
     });
   });
 });
+
+
+
+// (acc,item) => {
+//         averageMark += this.getAverageBySubject(item)
+//       return averageMark;
+//     },0
